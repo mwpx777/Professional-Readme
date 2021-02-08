@@ -93,38 +93,25 @@ const questions = () => {
             }
         },
         {
-            type: 'input',
+            type: 'checkbox',
             name: 'license',
-            message: "Please enter a license (Required)",
-            validate: licenseInput =>{
-                if(licenseInput){
-                    return true;
-                }else{
-                    console.log("Please enter a license!")
-                    return false;
-                }
-            }
+            message: "Please enter a license. Please check one.",
+            choices: ['MIT', 'GNU GPLv3', 'Apache-2.0', 'ISC']
         },
         {
+            type: 'input',
+            name: 'badge',
+            message: "Please enter your badge URL here.  (For more info go to https://shields.io)"
+
+        }
+        {
             type: 'checkbox',
-            name: 'badges',
+            name: 'technology',
             message: "What did you build this project with? Please check all that apply",
             choices: ['HTML', 'CSS', 'Javascript', 'jQuery', 'Bootstrap', 'Node.js']
         },
      
-        {
-            type:'input',
-            name: 'email',
-            message: "Please enter your email address (Required)",
-            validate: emailInput =>{
-                if(emailInput){
-                    return true;
-                }else{
-                    console.log("Please enter your email address!")
-                    return false;
-                }
-            }
-        },
+      
         {
             type: 'confirm',
             name: 'acknowledgements',
@@ -144,6 +131,30 @@ const questions = () => {
                 }
             }
         },
+        {
+            type:'input',
+            name: 'email',
+            message: "Please enter your email address (Required)",
+            validate: emailInput =>{
+                if(emailInput){
+                    return true;
+                }else{
+                    console.log("Please enter your email address!")
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: "Please enter your Github username"
+        },
+        {
+            type: 'input',
+            name: 'LinkedIn',
+            message: "Please enter your LinkedIn URL"
+        },
+
 
     ])
 };
@@ -194,8 +205,8 @@ const addFeatures = (featureData) =>{
         })
 };
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
+//  TODO: Create a function to write README file
+function writeToFile(fileName, data) {}
 
 // // TODO: Create a function to initialize app
 // function init() {}
@@ -205,3 +216,35 @@ const addFeatures = (featureData) =>{
 
 questions()
 .then (addFeatures)
+
+const readmeFile = ' # ${projectName}
+
+## ${description}
+
+## *Table of Contents*
+
+-[Depoloyed Application](#deployed-application)
+-[Installation](#installation)
+-[Features](#features)
+-[Usage](#usage)
+-[Credits](#credits)
+-[License](#license)
+-[Badge](#badge)
+-[Technology](#technology)
+-[Acknowledgements](#acknowledgements)
+-[Contact](#contact)
+
+## *Deployed Application*
+${url}
+
+## *Installation*
+${installInstructions}
+
+## *Features*
+${enterFeature}
+
+## *Usage*
+${usage}
+
+
+
