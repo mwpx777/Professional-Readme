@@ -2,7 +2,7 @@
 
 # **Professional-Readme**
 
-## **f**
+## **df**
 
 ## **Table of Contents**
 
@@ -38,10 +38,10 @@ https://github.com/mwpx777/Professional-Readme
 undefined
 
 ## **Features**
-b
+df
 
 ## **Usage**
-f
+dfd
 
 ## **Credits**
 undefined
@@ -65,8 +65,10 @@ undefined
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-* Github: (assets/images/GitHub.png)(https://github.com/mwpx777)
+* Github: assets/images/GitHub.png(https://github.com/mwpx777)
 
-* LinkedIn: (assets/images/LinkedIn.png)(https://www.linkedin.com/in/mwpdesigns/)
+* LinkedIn: assets/images/LinkedIn.png(https://www.linkedin.com/in/mwpdesigns/)
 
-* Email: (assets/images/email.png)(mwpx777@gmail.com)
+* Email: assets/images/email.png(mwpx777@gmail.com)
+
+* GitHub: [assets/images/GitHub.png](https://github.com/mwpx777)
