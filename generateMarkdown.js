@@ -66,11 +66,11 @@ ${data.enterAck}
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-* Github: https://github.com/${data.github}
+* Github: [assets/images/GitHub.png](https://github.com/${data.github})
 
-* LinkedIn: ${data.LinkedIn}
+* LinkedIn: [assets/images/LinkedIn.png](${data.LinkedIn})
 
-* Email: ${data.email}
+* Email: [assets/images/email.png](${data.email})
 `
 
 // // TODO: Create a function that returns a license badge based on which license is passed in
@@ -85,12 +85,7 @@ ${data.enterAck}
 // // If there is no license, return an empty string
 // function renderLicenseSection(license) {}
 
-// // TODO: Create a function to generate markdown for README
-// function generateMarkdown(data) {
-//   return `# ${data.title}
 
-// `;
-// }
 }
 
 module.exports = generateMarkdown;
