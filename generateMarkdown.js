@@ -1,55 +1,64 @@
 function generateMarkdown(data){
   return`
 
-# ${data.projectName}
+# **${data.projectName}**
 
-## ${data.description}
+## **${data.description}**
 
-## *Table of Contents*
+## **Table of Contents**
 
--[Deployed Application](#deployed-application)
--[Installation](#installation)
--[Features](#features)
--[Usage](#usage)
--[Credits](#credits)
--[License](#license)
--[Badge](#badge)
--[Technology](#technology)
--[Acknowledgements](#acknowledgements)
--[Contact](#contact)
+*[Deployed Application](#deployed-application)
 
-## *Deployed Application*
+*[Installation](#installation)
+
+*[Features](#features)
+
+*[Usage](#usage)
+
+*[Credits](#credits)
+
+*[License](#license)
+
+*[Badge](#badge)
+
+*[Technology](#technology)
+
+*[Acknowledgements](#acknowledgements)
+
+*[Contact](#contact)
+
+## **Deployed Application**
 ${data.url}
 
-## *Installation*
+## **Installation**
 ${data.installInstructions}
 
-## *Features*
-${data.enterFeature}
-
-## *Usage*
+## **Usage**
 ${data.usage}
 
-## *Credits*
+## **Credits**
 ${data.addCredits}
 
-## *License*
+## **License**
 ${data.license}
 
-## *Badge*
+## **Badge**
 ${data.badge}
 
-## *Technology*
+## **Technology**
 ${data.technology}
 
-## *Acknowledgements*
+## **Acknowledgements**
 ${data.enterAck}
 
-## *Contact Information*
+## **Contact Information**
+##### For questions or comments, please contact
 
--Github: ${data.github}
--LinkedIn: ${data.LinkedIn}
--Email: ${data.email}
+*Github: ${data.github}
+
+*LinkedIn: ${data.LinkedIn}
+
+*Email: ${data.email}
 `
 
 // // TODO: Create a function that returns a license badge based on which license is passed in
