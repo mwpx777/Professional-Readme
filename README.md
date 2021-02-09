@@ -1,39 +1,39 @@
 
 
-# **Marks cool project**
+# **Marks cool stuff**
 
-## **This is a really cool project**
+## **Cool stuff by mark**
 
 ## **Table of Contents**
 
-*[Deployed Application](#deployed-application)
+* [Deployed Application](#deployed-application)
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Features](#features)
+* [Features](#features)
 
-*[Usage](#usage)
+* [Usage](#usage)
 
-*[Credits](#credits)
+* [Credits](#credits)
 
-*[License](#license)
+* [License](#license)
 
-*[Badge](#badge)
+* [Badge](#badge)
 
-*[Technology](#technology)
+* [Technology](#technology)
 
-*[Acknowledgements](#acknowledgements)
+* [Acknowledgements](#acknowledgements)
 
-*[Contact](#contact)
+* [Contact](#contact)
 
 ## **Deployed Application**
-https://github.com/mwpx777/Professional-Readme
+https://github.com/mwpx777/Mark-Peterson-Portfolio
 
 ## **Installation**
-install now
+undefined
 
 ## **Usage**
-used by everyone
+used and enjoyed by all!
 
 ## **Credits**
 my wife Kathryn
@@ -42,19 +42,19 @@ my wife Kathryn
 MIT
 
 ## **Badge**
-sdf
+asdf
 
 ## **Technology**
 HTML
 
 ## **Acknowledgements**
-Kevin
+undefined
 
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-*Github: mwpx777
+* Github: https://github.com/mwpx777
 
-*LinkedIn: https://www.linkedin.com/in/mwpdesigns/
+* LinkedIn: linkedin.com/mwp_designs
 
-*Email: mwpx777@gmail.com
+* Email: mwpx777@gmail.com

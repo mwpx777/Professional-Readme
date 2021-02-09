@@ -7,25 +7,25 @@ function generateMarkdown(data){
 
 ## **Table of Contents**
 
-*[Deployed Application](#deployed-application)
+* [Deployed Application](#deployed-application)
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Features](#features)
+* [Features](#features)
 
-*[Usage](#usage)
+* [Usage](#usage)
 
-*[Credits](#credits)
+* [Credits](#credits)
 
-*[License](#license)
+* [License](#license)
 
-*[Badge](#badge)
+* [Badge](#badge)
 
-*[Technology](#technology)
+* [Technology](#technology)
 
-*[Acknowledgements](#acknowledgements)
+* [Acknowledgements](#acknowledgements)
 
-*[Contact](#contact)
+* [Contact](#contact)
 
 ## **Deployed Application**
 ${data.url}
@@ -54,11 +54,11 @@ ${data.enterAck}
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-*Github: ${data.github}
+* Github: https://github.com/${data.github}
 
-*LinkedIn: ${data.LinkedIn}
+* LinkedIn: ${data.LinkedIn}
 
-*Email: ${data.email}
+* Email: ${data.email}
 `
 
 // // TODO: Create a function that returns a license badge based on which license is passed in
