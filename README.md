@@ -1,8 +1,8 @@
 
 
-# **Professional-Readme**
+# **Profesional-Readme**
 
-## **df**
+## **d**
 
 ## **Table of Contents**
 
@@ -29,7 +29,7 @@
 * [Contact](#contact-information)
 
 ## **Deployed Application**
-https://github.com/mwpx777/Professional-Readme
+d
 
 ## **Screenshot**
 ![screenshot](assets/images/screenshot.png)
@@ -38,10 +38,10 @@ https://github.com/mwpx777/Professional-Readme
 undefined
 
 ## **Features**
-df
+n
 
 ## **Usage**
-dfd
+n
 
 ## **Credits**
 undefined
@@ -51,9 +51,9 @@ MIT
 
 ## **Badges**
 
-![GitHub top language](https://img.shields.io/github/languages/top/mwpx777/Professional-Readme?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/mwpx777/Profesional-Readme?style=plastic)
 
-![GitHub language count](https://img.shields.io/github/languages/count/mwpx777/Professional-Readme)
+![GitHub language count](https://img.shields.io/github/languages/count/mwpx777/Profesional-Readme)
 
 
 ## **Technology**
@@ -67,8 +67,8 @@ undefined
 
 * Github: assets/images/GitHub.png(https://github.com/mwpx777)
 
-* LinkedIn: assets/images/LinkedIn.png(https://www.linkedin.com/in/mwpdesigns/)
+* LinkedIn: assets/images/LinkedIn.png(dsfsd)
 
 * Email: assets/images/email.png(mwpx777@gmail.com)
 
-* GitHub: [assets/images/GitHub.png](https://github.com/mwpx777)
+* GitHub: [(assets/images/GitHub.png)](https://github.com/mwpx777)

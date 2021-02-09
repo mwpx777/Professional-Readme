@@ -72,7 +72,7 @@ ${data.enterAck}
 
 * Email: assets/images/email.png(${data.email})
 
-* GitHub: [assets/images/GitHub.png](https://github.com/${data.github})
+* GitHub: [(assets/images/GitHub.png)](https://github.com/${data.github})
 `
 
 // // TODO: Create a function that returns a license badge based on which license is passed in
