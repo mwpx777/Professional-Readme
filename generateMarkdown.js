@@ -54,9 +54,7 @@ ${data.license}
 
 ![GitHub top language](https://img.shields.io/github/languages/top/${data.github}/${data.projectName}?style=plastic)
 
-(https://img.shields.io/github/languages/count/${data.github}/${data.projectName})
-
-
+![GitHub language count](https://img.shields.io/github/languages/count/${data.github}/${data.projectName})
 
 
 ## **Technology**
