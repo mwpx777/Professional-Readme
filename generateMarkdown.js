@@ -66,11 +66,11 @@ ${data.enterAck}
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-* Github: [assets/images/GitHub.png](https://github.com/${data.github})
+* Github: (assets/images/GitHub.png)(https://github.com/${data.github})
 
-* LinkedIn: [assets/images/LinkedIn.png](${data.LinkedIn})
+* LinkedIn: (assets/images/LinkedIn.png)(${data.LinkedIn})
 
-* Email: [assets/images/email.png](${data.email})
+* Email: (assets/images/email.png)(${data.email})
 `
 
 // // TODO: Create a function that returns a license badge based on which license is passed in
