@@ -2,7 +2,7 @@
 
 # **Professional-Readme**
 
-## **cool stuff**
+## **no**
 
 ## **Table of Contents**
 
@@ -20,7 +20,7 @@
 
 * [License](#license)
 
-* [Badge](#badge)
+* [Badges](#badges)
 
 * [Technology](#technology)
 
@@ -38,10 +38,10 @@ https://github.com/mwpx777/Professional-Readme
 undefined
 
 ## **Features**
-no features
+no
 
 ## **Usage**
-no usage
+no
 
 ## **Credits**
 undefined
@@ -49,20 +49,20 @@ undefined
 ## **License**
 MIT
 
-## **Badge**
+## **Badges**
 
 ![GitHub top language](https://img.shields.io/github/languages/top/mwpx777/Professional-Readme?style=plastic)
 
-https://img.shields.io/github/languages/count/mwpx777/Professional-Readme
+(https://img.shields.io/github/languages/count/mwpx777/Professional-Readme)
 
 
 
 
 ## **Technology**
-HTML,CSS,Javascript
+HTML
 
 ## **Acknowledgements**
-my dogs
+undefined
 
 ## **Contact Information**
 ##### For questions or comments, please contact

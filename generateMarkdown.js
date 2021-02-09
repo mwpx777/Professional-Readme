@@ -21,7 +21,7 @@ function generateMarkdown(data){
 
 * [License](#license)
 
-* [Badge](#badge)
+* [Badges](#badges)
 
 * [Technology](#technology)
 
@@ -50,11 +50,11 @@ ${data.addCredits}
 ## **License**
 ${data.license}
 
-## **Badge**
+## **Badges**
 
 ![GitHub top language](https://img.shields.io/github/languages/top/${data.github}/${data.projectName}?style=plastic)
 
-https://img.shields.io/github/languages/count/${data.github}/${data.projectName}
+(https://img.shields.io/github/languages/count/${data.github}/${data.projectName})
 
 
 
