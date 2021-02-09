@@ -2,7 +2,7 @@
 
 # **Professional-Readme**
 
-## **f**
+## **g**
 
 ## **Table of Contents**
 
@@ -29,7 +29,7 @@
 * [Contact](#contact-information)
 
 ## **Deployed Application**
-f
+g
 
 ## **Screenshot**
 ![screenshot](assets/images/screenshot.png)
@@ -38,10 +38,10 @@ f
 undefined
 
 ## **Features**
-n
+b
 
 ## **Usage**
-n
+b
 
 ## **Credits**
 undefined
@@ -65,9 +65,9 @@ undefined
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-* Github: ![github logo](/assets/images/GitHub.png)(https://github.com/mwpx777)
+* Github: ![github logo]((/assets/images/GitHub.png)(https://github.com/mwpx777))
 
-* LinkedIn: /assets/images/LinkedIn.png(f)
+* LinkedIn: /assets/images/LinkedIn.png(d)
 
 * Email: /assets/images/email.png(mwpx777@gmail.com)
 

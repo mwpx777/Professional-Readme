@@ -66,7 +66,7 @@ ${data.enterAck}
 ## **Contact Information**
 ##### For questions or comments, please contact
 
-* Github: ![github logo](/assets/images/GitHub.png)(https://github.com/${data.github})
+* Github: ![github logo]((/assets/images/GitHub.png)(https://github.com/${data.github}))
 
 * LinkedIn: /assets/images/LinkedIn.png(${data.LinkedIn})
 
