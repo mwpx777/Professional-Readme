@@ -65,6 +65,19 @@ const questions =() => {
         },
         {
             type: 'input',
+            name: 'features',
+            message: "Please enter features of this project (Required)",
+            validate: featuresInput => {
+                if (featuresInput) {
+                    return true;
+                } else {
+                    console.log('Please enter features for this project!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
             name: 'usage',
             message: "Please enter usage information (Required)",
             validate: usageInput => {

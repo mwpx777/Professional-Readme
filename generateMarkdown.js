@@ -9,6 +9,8 @@ function generateMarkdown(data){
 
 * [Deployed Application](#deployed-application)
 
+* [Screenshot](#screenshot)
+
 * [Installation](#installation)
 
 * [Features](#features)
@@ -25,13 +27,19 @@ function generateMarkdown(data){
 
 * [Acknowledgements](#acknowledgements)
 
-* [Contact](#contact)
+* [Contact](#contact-information)
 
 ## **Deployed Application**
 ${data.url}
 
+## **Screenshot**
+![screenshot](assets/images/screenshot.png)
+
 ## **Installation**
 ${data.installInstructions}
+
+## **Features**
+${data.features}
 
 ## **Usage**
 ${data.usage}
@@ -43,7 +51,11 @@ ${data.addCredits}
 ${data.license}
 
 ## **Badge**
-${data.badge}
+
+![GitHub top language](https://img.shields.io/github/languages/top/${data.url}?style=plastic)
+
+https://img.shields.io/github/languages/count/${data.url}
+
 
 ## **Technology**
 ${data.technology}

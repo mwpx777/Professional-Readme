@@ -1,12 +1,14 @@
 
 
-# **Marks cool stuff**
+# **Mark Project**
 
-## **Cool stuff by mark**
+## **cool project**
 
 ## **Table of Contents**
 
 * [Deployed Application](#deployed-application)
+
+* [Screenshot](#screenshot)
 
 * [Installation](#installation)
 
@@ -24,37 +26,47 @@
 
 * [Acknowledgements](#acknowledgements)
 
-* [Contact](#contact)
+* [Contact](#contact-information)
 
 ## **Deployed Application**
-https://github.com/mwpx777/Mark-Peterson-Portfolio
+https://github.com/mwpx777/Professional-Readme
+
+## **Screenshot**
+![screenshot](assets/images/screenshot.png)
 
 ## **Installation**
 undefined
 
+## **Features**
+This project has awesome features
+
 ## **Usage**
-used and enjoyed by all!
+Used by everyone
 
 ## **Credits**
-my wife Kathryn
+My dogs
 
 ## **License**
 MIT
 
 ## **Badge**
-asdf
+
+![GitHub top language](https://img.shields.io/github/languages/top/https://github.com/mwpx777/Professional-Readme?style=plastic)
+
+https://img.shields.io/github/languages/count/https://github.com/mwpx777/Professional-Readme
+
 
 ## **Technology**
-HTML
+HTML,CSS,Javascript,jQuery,Bootstrap,Node.js
 
 ## **Acknowledgements**
-undefined
+everyone
 
 ## **Contact Information**
 ##### For questions or comments, please contact
 
 * Github: https://github.com/mwpx777
 
-* LinkedIn: linkedin.com/mwp_designs
+* LinkedIn: https://www.linkedin.com/in/mwpdesigns/
 
 * Email: mwpx777@gmail.com
