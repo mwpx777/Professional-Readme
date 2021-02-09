@@ -52,9 +52,11 @@ ${data.license}
 
 ## **Badge**
 
-![GitHub top language](https://img.shields.io/github/languages/top/${data.url}?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/${data.github}/${data.projectName}?style=plastic)
 
-https://img.shields.io/github/languages/count/${data.url}
+https://img.shields.io/github/languages/count/${data.github}/${data.projectName}
+
+
 
 
 ## **Technology**

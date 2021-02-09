@@ -114,19 +114,11 @@ const questions =() => {
             choices: ['MIT', 'GNU GPLv3', 'Apache-2.0', 'ISC']
         },
         {
-            type: 'input',
-            name: 'badge',
-            message: "Please enter your badge URL here.  (For more info go to https://shields.io)"
-
-        },
-        {
             type: 'checkbox',
             name: 'technology',
             message: "What did you build this project with? Please check all that apply",
             choices: ['HTML', 'CSS', 'Javascript', 'jQuery', 'Bootstrap', 'Node.js']
         },
-
-
         {
             type: 'confirm',
             name: 'acknowledgements',
