@@ -1,7 +1,7 @@
 
 
 # **Professional-Readme**   undefined
-## **d**
+## **g**
 
 ## **Table of Contents**
 
@@ -28,7 +28,7 @@
 * [Contact](#contact-information)
 
 ## **Deployed Application**
-d
+gf
 
 ## **Screenshot**
 ![screenshot](assets/images/screenshot.png)
@@ -37,16 +37,16 @@ d
 undefined
 
 ## **Features**
-d
+n
 
 ## **Usage**
-d
+n
 
 ## **Credits**
 undefined
 
-## **License**
-undefined
+
+
 
 ## **Badges**
 
@@ -56,20 +56,20 @@ undefined
 
 
 ## **Technology**
-CSS
+HTML
 
 ## **Acknowledgements**
 undefined
 
 ## **Tests**
-n
+g
 
 ## **Contact Information**
 ##### For questions or comments, please contact
 
 * Github: (https://github.com/mwpx777)
 
-* LinkedIn: (sdf)
+* LinkedIn: (g)
 
-* Email: (mwpx777@gmail.com)
+* Email: (n)
 

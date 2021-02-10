@@ -108,13 +108,13 @@ const questions =() => {
             }
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'license',
             message: "Please enter a license",
-            choices: ['MIT', 'GLP-3.0', 'Apache-2.0', 'ISC']
+            choices: ['MIT', 'GLP-3.0', 'Apache-2.0', 'ISC', 'none']
         },
         {
-            type: 'list',
+            type: 'checkbox',
             name: 'technology',
             message: "What did you build this project with? Please check all that apply",
             choices: ['HTML', 'CSS', 'Javascript', 'jQuery', 'Bootstrap', 'Node.js']
