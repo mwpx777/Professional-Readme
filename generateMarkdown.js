@@ -140,7 +140,6 @@ function renderLicenseLink(licenseText) {
  };
 
 //  render license in table of contents
-// render license section on page
 function renderLicenseTable(licenseText) {
     if (licenseText == 'none'){
  return "";
