@@ -18,7 +18,7 @@ function generateMarkdown(data) {
 
 * [Credits](#credits)
 
-* [License](#license)
+${renderLicenseTable(data.license)}
 
 * [Badges](#badges)
 
@@ -45,6 +45,7 @@ ${data.usage}
 
 ## **Credits**
 ${data.addCredits}
+
 
 ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
@@ -76,11 +77,10 @@ ${data.tests}
 
 `
 }
-//  // TODO: Create a function that returns a license badge based on which license is passed in 
-//  // If there is no license, return an empty string
+// render license badge on top of page
 function renderLicenseBadge(licenseText) {
 
-  if (!licenseText) {
+  if (licenseText == 'none') {
     return "";
   }
   if (licenseText == 'MIT') {
@@ -100,16 +100,11 @@ function renderLicenseBadge(licenseText) {
 
   if (licenseText == 'ISC') {
     return '![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)'
-    
   }
-
-
 }
 
-//  TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// render license string on page
 function renderLicenseLink(licenseText) {
-  console.log(licenseText)
   if (licenseText == 'none') {
     return "";
   }
@@ -134,19 +129,25 @@ function renderLicenseLink(licenseText) {
       }
 }
 
-// // TODO: Create a function that returns the license section of README
-//  // If there is no license, return an empty string
+// render license section on page
  function renderLicenseSection(licenseText) {
-   console.log(licenseText)
+   
    if (licenseText == 'none'){
   return "";
  }else{
    return `## **License**`
-
-
  }
  };
 
+//  render license in table of contents
+// render license section on page
+function renderLicenseTable(licenseText) {
+    if (licenseText == 'none'){
+ return "";
+}else{
+  return `* [License](#license)`
+}
+};
 
 
 module.exports = generateMarkdown;

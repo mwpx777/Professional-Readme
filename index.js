@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generatorMarkdown = require('./generateMarkdown')
 
-const questions =() => {
+const questions = () => {
     return inquirer.prompt([
 
         {
@@ -169,7 +169,8 @@ const questions =() => {
 
 
 
-    ])};
+    ])
+};
 
 
 
@@ -189,17 +190,16 @@ function writeToFile(fileName, data) {
 };
 
 
-    // // TODO: Create a function to initialize app
-     const init = () => {
-        
-            questions()
-            .then(function (data) {
-                writeToFile("readme.md", generatorMarkdown(data));
-            })
-    }
+// // TODO: Create a function to initialize app
+const init = () => {
 
-    
-    init();
+    questions()
+        .then(function (data) {
+            writeToFile("readme.md", generatorMarkdown(data));
+        })
+}
+
+init();
 
 
 
