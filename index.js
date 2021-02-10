@@ -174,7 +174,7 @@ const questions = () => {
 
 
 
-//  TODO: Create a function to write README file
+// write readme file
 function writeToFile(fileName, data) {
 
 
@@ -190,7 +190,7 @@ function writeToFile(fileName, data) {
 };
 
 
-// // TODO: Create a function to initialize app
+//  function to initilize app
 const init = () => {
 
     questions()
@@ -198,7 +198,7 @@ const init = () => {
             writeToFile("readme.md", generatorMarkdown(data));
         })
 }
-
+// initilize app
 init();
 
 
