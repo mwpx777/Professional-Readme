@@ -1,7 +1,7 @@
 
 
-# **Professional-Readme**   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-## **dfs**
+# **Professional-Readme**   undefined
+## **d**
 
 ## **Table of Contents**
 
@@ -28,7 +28,7 @@
 * [Contact](#contact-information)
 
 ## **Deployed Application**
-sdf
+d
 
 ## **Screenshot**
 ![screenshot](assets/images/screenshot.png)
@@ -37,16 +37,16 @@ sdf
 undefined
 
 ## **Features**
-n
+d
 
 ## **Usage**
-n
+d
 
 ## **Credits**
 undefined
 
 ## **License**
-MIT
+undefined
 
 ## **Badges**
 
@@ -69,7 +69,7 @@ n
 
 * Github: (https://github.com/mwpx777)
 
-* LinkedIn: (sdfs)
+* LinkedIn: (sdf)
 
 * Email: (mwpx777@gmail.com)
 
