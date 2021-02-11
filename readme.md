@@ -1,7 +1,7 @@
 
 
 # **Professional-Readme**   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-## **This is weekly challenge to create a readme file with user prompts from the command line**
+## **this will create a professional readme from user prompts**
 
 ## **Table of Contents**
 
@@ -34,16 +34,16 @@ https://github.com/mwpx777/Professional-Readme
 ![screenshot](assets/images/screenshot.png)
 
 ## **Installation**
-Type 'node index' from command line
+type 'node index' from command line
 
 ## **Features**
-This project will generate a professional readme file from user prompts
+this will generate a readme file from user input
 
 ## **Usage**
 This can be used by anyone needing a professsiona readme file for their project
 
 ## **Credits**
-undefined
+my wife 
 
 
 ## **License**
@@ -57,10 +57,10 @@ undefined
 
 
 ## **Technology**
-HTML,CSS,Javascript,jQuery,Node.js
+HTML,CSS,Node.js
 
 ## **Acknowledgements**
-undefined
+my wife Kathryn
 
 ## **Tests**
 no tests needed
